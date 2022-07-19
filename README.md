@@ -18,5 +18,5 @@ Official Repo of my work for GPCET AI Workshop
 3. Read Text from Image using AWS Rekognition
 4. Sentimental Analysis on Voice
 5. Deploy a basic Salary Prediction System on AWS
-
+6. Create a web app to upload files to S3 of AWS
 
